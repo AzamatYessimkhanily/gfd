@@ -45,7 +45,6 @@ def logout():
     return render_template('logout.html')
 
 
-#AZAMAT WORK
 
 
 
